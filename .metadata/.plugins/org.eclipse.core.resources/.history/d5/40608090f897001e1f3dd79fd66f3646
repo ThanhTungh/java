@@ -1,0 +1,17 @@
+
+public class MyLinkedList {
+
+	Node head;
+	
+	public MyLinkedList() {
+		head = null;
+	}
+	
+	public void add(T data) {//add a new element to the end of node
+		//1. Create a new node
+		//2. Identify the last node
+		//3. Connect the last node to the new created node
+		
+	}
+
+}

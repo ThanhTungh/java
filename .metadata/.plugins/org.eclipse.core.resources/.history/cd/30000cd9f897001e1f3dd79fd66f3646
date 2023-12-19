@@ -1,0 +1,27 @@
+
+public class MyLinkedList<T> {
+
+	private class Node{
+		T data;
+		Node next;
+		
+		Node(T data){
+			this.data = data;
+			this.next = null;
+		}
+	}
+	Node head;
+	
+	public MyLinkedList() {
+		head = null;
+	}
+	
+	public void add(T data) {//add a new element to the end of node
+		//1. Create a new node
+		Node aNode = new Node;
+		//2. Identify the last node
+		//3. Connect the last node to the new created node
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="QLyHieuThuoc/src"/>
+	<classpathentry kind="lib" path="thư viên/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="thư viên/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="thư viên/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="thư viên/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="thư viên/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="output" path="QLyHieuThuoc/bin"/>
+</classpath>

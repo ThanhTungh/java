@@ -1,0 +1,13 @@
+import java.util.ArrayList;
+
+public class ArraysLists {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList<Integer> aList = new ArrayList<>();
+		ArrayList<Integer> bList = new ArrayList<>();
+		
+		alist.add(9);
+	}
+
+}

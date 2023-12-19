@@ -1,0 +1,13 @@
+
+public class MyArrayList <T>{ //generic class <T>
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		private Object[]arr;
+		private final int DEFAULT_CAPACITY = 10;
+		private 
+	}
+	
+	public MyArrayList
+
+}
